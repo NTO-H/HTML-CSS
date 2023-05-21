@@ -1,0 +1,97 @@
+*
+{
+    background-color: rgb(151, 161, 171);
+
+
+}
+.desc{
+
+font-family: Arial, Helvetica, sans-serif;
+color: rgb(53, 56, 3);
+text-shadow: 0cqi;
+text-align: center;
+}
+
+
+table, th,td{
+border: 1px solid black;
+border-collapse: collapse;
+}
+.Receso{
+text-align: center;
+color:rgb(60, 63, 64);
+    background-color: rgba(105, 105, 105, 0.423);
+}
+
+.encabezado{
+   
+background-color: grey;
+}
+.HRC
+{
+    text-align: center;
+color: brown;
+height: 20px;
+}
+#pasatiempos{
+    /* background-color: rgb(224, 255, 201); */
+
+
+    color: brown;
+    height: 20px;
+   text-align: center;
+}
+li
+{
+color: rgb(15, 50, 51);
+/* background-color: rgb(201, 255, 251); */
+
+
+/* display:flexbox; */
+
+justify-content:space-between;
+flex-direction: row;
+}
+#nombre{
+background-color: rgb(27, 89, 91,90px);
+font-family: monospace;
+border-color:brown;
+min-height: auto;
+text-align: center;
+}
+*{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+justify-content: center;
+}
+img{
+height: 50px;
+width: 50px;
+
+}
+#Foto
+    {
+        left: 870%;
+        transform: translate(300%,0%);
+        border: 3px solid rgb(255, 170, 0);
+display: flex;
+justify-content: center;
+align-items: center;
+        height: 200px;
+        width: 150px;
+        flex-direction: column-reverse;
+}
+th{
+color: blue;
+background-color: rgb(255, 196, 0);
+
+}
+#datos{
+text-align: center;
+}
+.Litas{
+text-align: center;
+
+}
+body{
+justify-content: center;
+}
